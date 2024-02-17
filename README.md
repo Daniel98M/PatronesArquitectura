@@ -15,10 +15,10 @@
         - ![Diagrama de Clases Segundo Ejercicio](/diagrams/Segundo.svg)
   3. Construcción de un Menú de Restaurante
   	  - Tipo: Patrón creacional (Builder)
-		  - ![Diagrama de Clases Segundo Ejercicio](/diagrams/Tercero.svg)
+        - ![Diagrama de Clases Segundo Ejercicio](/diagrams/Tercero.svg)
   4. Decoración de Habitaciones en un Hotel
   	  - Tipo: Patrón estructural (Decorator)
-        - [Diagrama de Clases Cuarto Ejercicio](/diagrams/Cuarto.svg)
+        - ![Diagrama de Clases Cuarto Ejercicio](/diagrams/Cuarto.svg)
   5. Implementación de un Sistema de Envío
   	  - Tipo: Patrón estructural (Bridge)
-        - [Diagrama de Clases Quinto Ejercicio](/diagrams/Quinto.svg)
+        - ![Diagrama de Clases Quinto Ejercicio](/diagrams/Quinto.svg)
